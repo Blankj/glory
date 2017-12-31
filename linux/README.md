@@ -10,7 +10,7 @@ drwxr-xr-x  11 Blankj  staff    374 Dec  6 23:39 alog
 
 `ls -l` 命令显示的前 10 位 如下所示。
 
-![aha](art/file.png)
+![](https://raw.githubusercontent.com/Blankj/glory/master/linux/art/ls_l_10.png)
 
 第 0 位表示文件类型，如下所示：
 
