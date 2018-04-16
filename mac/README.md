@@ -103,4 +103,5 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
 ## 推荐参考
 
 [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
+
 [Best App](https://github.com/hzlzh/Best-App)

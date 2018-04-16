@@ -1,5 +1,7 @@
 # GitBook 使用教程
 
+首先先献上 [我的 GitBook 地址](https://blankj.com/gitbook/)，可以在我的 [博客](https://blankj.com/) 导航栏处找到，下面进行相关的介绍。
+
 ## 背景
 
 由于之前都把零散的知识都写在 [Gist](https://gist.github.com) 上，要查找的时候不是很系统化，所以打算挪到 [GitBook](https://www.gitbook.com) 上来统一管理，而且 [GitBook](https://www.gitbook.com) 写完编译后可以生成静态页面发布到博客上，逼格满满的样子。
@@ -275,7 +277,7 @@ GitBook 基本的目录结构如下所示：
 
 ## 插件
 
-GitBook 有[插件官网](https://plugins.gitbook.com/)，默认带有 5 个插件，highlight、search、sharing、font-settings、livereload，如果要去除自带的插件， 可以在插件名称前面加 `-`，比如：
+GitBook 有 [插件官网](https://plugins.gitbook.com/)，默认带有 5 个插件，highlight、search、sharing、font-settings、livereload，如果要去除自带的插件， 可以在插件名称前面加 `-`，比如：
 
 ```
 "plugins": [
@@ -303,4 +305,4 @@ GitBook 有[插件官网](https://plugins.gitbook.com/)，默认带有 5 个插�
 
 ## 结语
 
-这是我的 GitBook 总结，希望能帮到今后需要的小伙伴。
+这是我对 GitBook 使用的总结，希望能帮到今后需要的小伙伴。
