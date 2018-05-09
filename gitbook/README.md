@@ -114,7 +114,7 @@ GitBook 基本的目录结构如下所示：
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "styles": {
-        "website": "./styles/website.css"
+        "website": "/styles/website.css"
     },
     "structure": {
         "readme": "README.md"
@@ -152,7 +152,7 @@ GitBook 基本的目录结构如下所示：
             ]
         },
         "donate": {
-            "alipay": "./source/images/donate.png",
+            "alipay": "https://blankj.com/gitbook/source/images/donate.png",
             "title": "",
             "button": "赞赏",
             "alipayText": " "
@@ -184,12 +184,12 @@ GitBook 基本的目录结构如下所示：
             "showLevel": false
         },
         "favicon":{
-            "shortcut": "./source/images/favicon.jpg",
-            "bookmark": "./source/images/favicon.jpg",
-            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "shortcut": "/source/images/favicon.jpg",
+            "bookmark": "/source/images/favicon.jpg",
+            "appleTouch": "/source/images/apple-touch-icon.jpg",
             "appleTouchMore": {
-                "120x120": "./source/images/apple-touch-icon.jpg",
-                "180x180": "./source/images/apple-touch-icon.jpg"
+                "120x120": "/source/images/apple-touch-icon.jpg",
+                "180x180": "/source/images/apple-touch-icon.jpg"
             }
         }
     }

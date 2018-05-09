@@ -43,7 +43,7 @@
             ]
         },
         "donate": {
-            "alipay": "./source/images/donate.png",
+            "alipay": "https://blankj.com/gitbook/source/images/donate.png",
             "title": "",
             "button": "赞赏",
             "alipayText": " "
