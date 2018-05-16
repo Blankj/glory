@@ -100,6 +100,27 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
 ```
 
 
+## 快捷锁屏（系统偏好设置 -> 安全性与隐私 -> 通用 -> 可设置进入睡眠或开始屏幕后多久需要输入密码）
+OS X 10.9 以上 短按 Power（此为 Sleep，会断网）
+或者
+```
+Ctrl + Shift + Power: 关闭屏幕
+Cmd + Opt + Power: 睡眠
+Cmd + Ctrl + Power: 重启
+Cmd + Ctrl +Opt + Power: 关机
+```
+或者
+```
+系统偏好设置 -> 桌面与屏幕保护程序 -> 屏幕保护程序 -> 触发角
+```
+或者
+```
+Afread -> lock/sleep/screen saver
+```
+
+
+
+
 ## 推荐参考
 
 [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
