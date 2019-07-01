@@ -20,6 +20,14 @@
   * [1. 基本语法](GoGoGo/quick_search/1. 基本语法.md)
   * [2. 容器](GoGoGo/quick_search/2. 容器.md)
   * [3. 流程控制](GoGoGo/quick_search/3. 流程控制.md)
+  * [4. 函数](GoGoGo/quick_search/4. 函数.md)
+  * [5. 结构体](GoGoGo/quick_search/5. 结构体.md)
+  * [6. 接口](GoGoGo/quick_search/6. 接口.md)
+  * [7. 包](GoGoGo/quick_search/7. 包.md)
+  * [8. 并发](GoGoGo/quick_search/8. 并发.md)
+  * [9. 反射](GoGoGo/quick_search/9. 反射.md)
+  * [10. 编译与工具](GoGoGo/quick_search/10. 编译与工具.md)
+  * [11. 避坑与技巧](GoGoGo/quick_search/11. 避坑与技巧.md)
 
 
 ## GitBook
