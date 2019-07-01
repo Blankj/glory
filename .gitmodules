@@ -1,0 +1,3 @@
+[submodule "GoGoGo"]
+	path = GoGoGo
+	url = git@github.com:Blankj/GoGoGo.git
