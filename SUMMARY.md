@@ -17,9 +17,9 @@
 
 ## GoGoGo
 * [Go 速查](GoGoGo/quick_search/README.md)
-  * [1. 基本语法](go/quick_search/1. 基本语法.md)
-  * [2. 容器](go/quick_search/2. 容器.md)
-  * [3. 流程控制](go/quick_search/3. 流程控制.md)
+  * [1. 基本语法](GoGoGo/quick_search/1. 基本语法.md)
+  * [2. 容器](GoGoGo/quick_search/2. 容器.md)
+  * [3. 流程控制](GoGoGo/quick_search/3. 流程控制.md)
 
 
 ## GitBook
