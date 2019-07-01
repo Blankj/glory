@@ -19,7 +19,6 @@ brew tap caskroom/cask
 ## 推荐软件
 ```
 alfred
-atom
 bartender
 cheatsheet
 google-chrome
@@ -29,7 +28,10 @@ licecap
 manico
 moon
 oh-my-zsh
+snap
 the-unarchive
+vanilla
+visual-studio-code
 ```
 
 
@@ -74,12 +76,14 @@ Cmd + Opt + C
 ```
 defaults write com.apple.finder AppleShowAllFiles -bool true ; killall Finder
 ```
+或者在 Finder 中 `Cmd + Shift + .`。
 
 
 ## 隐藏隐藏文件
 ```
 defaults write com.apple.finder AppleShowAllFiles -bool false ; killall Finder
 ```
+或者在 Finder 中 `Cmd + Shift + .`。
 
 
 ## Finder 底部显示路径
@@ -100,7 +104,9 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
 ```
 
 
-## 快捷锁屏（系统偏好设置 -> 安全性与隐私 -> 通用 -> 可设置进入睡眠或开始屏幕后多久需要输入密码）
+## 快捷锁屏
+系统偏好设置 -> 安全性与隐私 -> 通用 -> 可设置进入睡眠或开始屏幕后多久需要输入密码
+
 OS X 10.9 以上 短按 Power（此为 Sleep，会断网）
 或者
 ```

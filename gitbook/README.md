@@ -184,13 +184,9 @@ GitBook 基本的目录结构如下所示：
             "showLevel": false
         },
         "favicon":{
-            "shortcut": "/source/images/favicon.jpg",
-            "bookmark": "/source/images/favicon.jpg",
-            "appleTouch": "/source/images/apple-touch-icon.jpg",
-            "appleTouchMore": {
-                "120x120": "/source/images/apple-touch-icon.jpg",
-                "180x180": "/source/images/apple-touch-icon.jpg"
-            }
+            "shortcut": "./source/images/favicon-32x32.webp",
+            "bookmark": "./source/images/favicon-32x32.webp",
+            "appleTouch": "./source/images/apple-touch-icon.webp"
         }
     }
 }
